@@ -1,3 +1,0 @@
-C:/Users/FRANCO/Desktop/Guia_TP_ProgramacionII/TP_3/eje_1/cmake-build-debug/CMakeFiles/eje_1.dir
-C:/Users/FRANCO/Desktop/Guia_TP_ProgramacionII/TP_3/eje_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/FRANCO/Desktop/Guia_TP_ProgramacionII/TP_3/eje_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

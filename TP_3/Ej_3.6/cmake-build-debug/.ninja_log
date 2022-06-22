@@ -1,0 +1,5 @@
+# ninja log v5
+25	826	6776200244361164	build.ninja	aafd07cae1dfa873
+1	273	6776200249460940	CMakeFiles/Ej_3_6.dir/pwd.cpp.obj	486c122ffeb09958
+6	601	6776200252712232	CMakeFiles/Ej_3_6.dir/main_pwd.cpp.obj	2f7b67120f8359cd
+603	946	6776200256140300	Ej_3_6.exe	1be2c885e76c6779

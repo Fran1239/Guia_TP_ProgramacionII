@@ -1,0 +1,6 @@
+# ninja log v5
+0	1725	6776194868094760	CMakeFiles/Ej_3_3.dir/main.cpp.obj	221d194240fe1d18
+6	496	6776195381868116	build.ninja	133fa59487d70fa3
+3	222	6776195386943842	CMakeFiles/Ej_3_3.dir/complejo.cpp.obj	5fab78d5fc0f58be
+0	592	6776195390653918	CMakeFiles/Ej_3_3.dir/main_complejo.cpp.obj	ed2537df868e3cfb
+593	952	6776195393815469	Ej_3_3.exe	2df6b065f22cef2e

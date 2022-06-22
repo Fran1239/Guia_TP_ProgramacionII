@@ -1,0 +1,5 @@
+# ninja log v5
+78	1545	6776207561207643	build.ninja	be2bdc3f8af1711e
+1	359	6776207517169005	CMakeFiles/Ej_3_9.dir/vector.cpp.obj	137b323ab2a2b9a
+8	1156	6776207525207512	CMakeFiles/Ej_3_9.dir/vector_main.cpp.obj	13842530d2abcadc
+1160	1598	6776207529634178	Ej_3_9.exe	89b85595828b4c2c

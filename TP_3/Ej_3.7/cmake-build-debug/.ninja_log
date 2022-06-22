@@ -1,0 +1,5 @@
+# ninja log v5
+51	624	6776201832636459	build.ninja	9e91dabee786ad35
+5	323	6776201838034732	CMakeFiles/Ej_3_7.dir/cuenta.cpp.obj	10bf67dbc69bb31
+0	706	6776201841999301	CMakeFiles/Ej_3_7.dir/cuenta_main.cpp.obj	dde2146f13fea403
+708	1047	6776201845405552	Ej_3_7.exe	af7e83fffe0f625b

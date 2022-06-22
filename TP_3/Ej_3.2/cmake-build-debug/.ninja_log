@@ -1,0 +1,5 @@
+# ninja log v5
+21	457	6776193296434597	build.ninja	81e28ecf55cc64e2
+1	415	6776193302513678	CMakeFiles/Ej_3_2.dir/racional.cpp.obj	7048fec8de1b1a15
+6	806	6776193306423217	CMakeFiles/Ej_3_2.dir/main_racional.cpp.obj	1eaf883e868750b2
+808	1164	6776193309976439	Ej_3_2.exe	d9a62341d2fd35f3
