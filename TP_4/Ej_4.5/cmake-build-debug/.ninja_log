@@ -1,0 +1,7 @@
+# ninja log v5
+50	855	6776311860196858	build.ninja	a5ab78306a25ec5a
+1	1133	6776311875953889	CMakeFiles/Ej_4_5.dir/main_juego.cpp.obj	d7c58aadc9d9e58b
+13	1141	6776311876053607	CMakeFiles/Ej_4_5.dir/mago.cpp.obj	c4d374e516129206
+18	1143	6776311876093638	CMakeFiles/Ej_4_5.dir/personaje.cpp.obj	6aa54ad65582b374
+5	1154	6776311876173294	CMakeFiles/Ej_4_5.dir/clerigo.cpp.obj	413f80beb02b551e
+1154	1724	6776311881963732	Ej_4_5.exe	8bcc00eb2f3b6d3e

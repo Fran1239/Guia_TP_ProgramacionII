@@ -1,0 +1,7 @@
+# ninja log v5
+7	423	6776307115105083	build.ninja	ddbed7c45a3c06c5
+0	693	6776307123818135	CMakeFiles/Ej_4_2.dir/empleado.cpp.obj	ef827b1efd7fc543
+12	702	6776307123848045	CMakeFiles/Ej_4_2.dir/comercial.cpp.obj	e401fada05671f45
+3	703	6776307123858025	CMakeFiles/Ej_4_2.dir/main_empleados.cpp.obj	51a343166e04af54
+7	705	6776307123957768	CMakeFiles/Ej_4_2.dir/repartidor.cpp.obj	a2a29655370a13aa
+706	1118	6776307128108481	Ej_4_2.exe	ce0425dad364599f
